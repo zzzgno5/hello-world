@@ -1,2 +1,2 @@
-# hello-world
+# Hello-world
 Just for fun
